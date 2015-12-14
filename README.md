@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rails 4.X Development Standards Guide
 
 ## Approach
@@ -271,3 +272,10 @@ In the end, you should be able to articulate why your decision is the right one.
 We generally agree with DHH regarding client side frameworks and have discovered that
 thoughtful use of something like [Vue](http://vuejs.org/) meets most of our needs.
 
+=======
+# Rails Development Standards Guides
+
+* [Rails 4.X](https://github.com/hopsoft/rails_standards/tree/rails-4-X)
+* [Rails 4.0](https://github.com/hopsoft/rails_standards/tree/rails-4-0)
+* [Rails 3.2](https://github.com/hopsoft/rails_standards/tree/rails-3-2)
+>>>>>>> d83892151577862833d334245fa3af2f19b6650c
